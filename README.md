@@ -1,4 +1,4 @@
-# LeetCode-Daily-by-msgeekytaurus
+# LeetCode-Daily-by-geekytaurus
 LeetCode problems solutions with topic and difficulty level
 
 
